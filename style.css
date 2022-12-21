@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+p{
+    color: dimgray;
+}
+.degine{
+    font-size: 35px;
+    font-family: 'Lobster', cursive;
+}
+.color{
+    color: brown;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orange rgb(219, 87, 10));
+    background-color: tomato;
+    padding: 8px 20px;
+    border-radius: 5px;
+    color: lightgray;
+    font-weight: bold;
+
+}
+.top-banners{
+    height: 500px;
+    background-image: url("images/top-banner.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
