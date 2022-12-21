@@ -23,11 +23,11 @@ p{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(45deg, orange rgb(219, 87, 10));
+    background-image: linear-gradient(45deg, orange tomato);
     background-color: tomato;
     padding: 8px 20px;
     border-radius: 5px;
-    color: lightgray;
+    color: rgb(241, 245, 247);
     font-weight: bold;
 
 }
@@ -37,4 +37,85 @@ p{
     background-size: cover;
     background-repeat: no-repeat;
 }
+.second-area{
+    height: 500px;
+    background-image: url("images/biography-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bold{
+    font-size: 40px;
+    color: rgb(219, 87, 10);
+    font-weight: bold;
+    text-align: center;
+}
+.test{
+    border-radius: 6px;
+    padding-top: 1.8in;
+}
+
+.work-area{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.work-area{
+    margin: 2px;
+    padding-top: 3%;
+    padding-bottom: 5%;
+}
+.pic-work{
+    width: 22%;
+    float: left;
+    margin-top: 2%;
+    margin-left: 2%;
+    padding-top: 1.8%;
+    padding-left: 6%;
+    padding-right: 2%;
+   
+}
+
+.pic-work img{
+           width:100%;
+           box-shadow:  5px 20px 27px;
+}
+.font-c{
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 3%;
+}
+.footer-pic{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    
+}
+.font-s{
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 2%;
+    padding-top: 20%;
+}
+.f-s{
+    text-align: center;
+    padding-top: 4%;
+}
+.c{
+    width: 40%;
+    font-size: small;
+    padding-left: 30%;
+}
+.link-buttons{
+    text-decoration: none;
+    text-align: center;
+    margin: 10% 24% 18% 24%;
+    background-image: linear-gradient(45deg, orange tomato);
+    background-color: tomato;
+    padding: 12px 20px;
+    border-radius: 7px;
+    color: rgb(241, 245, 247);
+}
+.center{
+    text-align: center;
+}
+
 
